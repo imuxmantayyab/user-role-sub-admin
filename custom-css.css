@@ -1,0 +1,23 @@
+#edit-slug-buttons{
+    display: none;
+}
+
+a.edit-timestamp.hide-if-no-js {
+    display: none;
+}
+
+.inline-edit-date{
+    display: none;
+}
+
+.inline-edit-col > label:nth-child(2){
+    display:none;
+}
+
+.components-panel__row.edit-post-post-schedule {
+    display: none;
+}
+
+.components-popover__content {
+    display: none;
+}
